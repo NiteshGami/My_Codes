@@ -1,4 +1,7 @@
-/* Add 2 Number represented by 2 Linklist O(m+n) */
+/* Add 2 Number represented by 2 Linklist O(m+n)
+Author: Nitesh Gami
+Created: 28-FEB-2016
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
