@@ -1,3 +1,6 @@
+/**
+https://www.geeksforgeeks.org/sum-of-bit-differences-among-all-pairs/
+**/
 class sumOfBitDiffrencesUtils {
 	private static int calculate(int inputArray[]) {
 		int arrayLength = (inputArray != null) ? inputArray.length : 0;
